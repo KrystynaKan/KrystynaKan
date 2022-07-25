@@ -1,9 +1,13 @@
-<h2>Hi, I’m @KrystynaKan </h2> <br>
-I’m DataScience wannabe!  <br>
+<h2>Hi, I’m @KrystynaKan </h2>
+I’m Data Scientist Wannabe!  <br>
+I'm interested in working on data, e.g. data visualization, data analysis and making models/predictions. <br>
 I’m currently learning TensorFlow and Keras in Python, because I would like to improve my skills in Machine Learning/AI. <br>
 Check out my repositories to see what I've learned.<br>
-<h2>WHAT I'VE LEARNED (click to check!):</h2> <br>
+<p class="small">
+<h2>WHAT I'VE LEARNED (click to check!):
+</h2>
 <h3>PYTHON:</h3>
+</p>
 <a href="https://pythoninstitute.org/"><img src="https://user-images.githubusercontent.com/105540113/180755892-c3d9aef0-1c42-41d4-9519-2bced56a702e.png"
         width="40"
         height="40"/> </a>
