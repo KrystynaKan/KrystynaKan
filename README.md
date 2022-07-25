@@ -1,7 +1,9 @@
 <h2>Hi, I’m @KrystynaKan </h2> <br>
-I’m interested in DataScience.  <br>
-I’m currently learning TensorFlow and Keras in Python, because I would like to improve my skills in Machine Learning/AI. <br><br>
+I’m DataScience wannabe!  <br>
+I’m currently learning TensorFlow and Keras in Python, because I would like to improve my skills in Machine Learning/AI. <br>
+Check out my repositories to see what I've learned.<br>
 <h2>WHAT I'VE LEARNED (click to check!):</h2> <br>
+<h3>PYTHON:</h3>
 <a href="https://pythoninstitute.org/"><img src="https://user-images.githubusercontent.com/105540113/180755892-c3d9aef0-1c42-41d4-9519-2bced56a702e.png"
         width="40"
         height="40"/> </a>
