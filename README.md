@@ -4,7 +4,7 @@ I'm interested in working on data, e.g. data visualization, data analysis and ma
 I’m currently learning TensorFlow and Keras in Python, because I would like to improve my skills in Machine Learning/AI. <br>
 Check out my repositories to see what I've learned.<br>
 <p class="small">
-<h2>WHAT I'VE LEARNED (click to check!):
+<h2>WHAT I'VE LEARNED (click to open website):
 </h2>
 <h3>PYTHON:</h3>
 </p>
