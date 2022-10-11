@@ -29,7 +29,10 @@ Check out my repositories to see what I've learned.<br>
 <a href="https://plotly.com/"><img src="https://user-images.githubusercontent.com/105540113/180760901-1d08d8fc-7a1d-4713-9138-33efa9fbd08b.png"
         width="40"
         height="40"/> </a>  
-
+        
+        
+<h3>CODEWARS:</h3>
+<p dir="auto"><a href="https://www.codewars.com/users/KrystynaKan"><img width="auto" height="auto" src="https://www.codewars.com/users/KrystynaKan/badges/large?logo=false" data-canonical-src="https://github-readme-codewars-stats.herokuapp.com/api/?username=KrystynaKan&amp;badge&amp;colormode=dark_mode" style="max-width: 100%;"></a></p>
 
 <!---
 KrystynaKan/KrystynaKan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
