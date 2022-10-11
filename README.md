@@ -8,7 +8,7 @@ Check out my repositories to see what I've learned.<br>
 </h2>
 <h3>PYTHON:</h3>
 </p>
-<a href="https://pythoninstitute.org/"><img src="https://user-images.githubusercontent.com/105540113/180755892-c3d9aef0-1c42-41d4-9519-2bced56a702e.png"
+<a target="_blank" rel="noopener noreferrer" href="https://pythoninstitute.org/"><img src="https://user-images.githubusercontent.com/105540113/180755892-c3d9aef0-1c42-41d4-9519-2bced56a702e.png"
         width="40"
         height="40"/> </a>
 <a href="https://scikit-learn.org/stable/"><img src="https://user-images.githubusercontent.com/105540113/180758708-65e15a0b-ce85-411c-ac35-eedb729c250d.png"
